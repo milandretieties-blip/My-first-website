@@ -64,6 +64,7 @@ I'm just getting started on my coding journey and already loving every bit of it
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-USERNAME)
 
+Nr. 0631311802
 ---
 
 <p align="center">
